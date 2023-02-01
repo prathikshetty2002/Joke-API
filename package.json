@@ -1,0 +1,22 @@
+{
+  "name": "joke-api",
+  "version": "1.0.0",
+  "description": "This is a Joke API which fetches random jokes :)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathikshetty2002/Joke-API.git"
+  },
+  "author": "prathik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathikshetty2002/Joke-API/issues"
+  },
+  "homepage": "https://github.com/prathikshetty2002/Joke-API#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
